@@ -327,9 +327,7 @@ Task-19-Filter-Dataset-Records/
 │
 ├── task19.py
 ├── README.md
-└── screenshots/
-    └── output.png
-```
+
 
 ---
 
